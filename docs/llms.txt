@@ -1,0 +1,169 @@
+# Telling Time in Thai · บอกเวลาแบบไทย
+
+How Thai people tell time: the six-hour spoken clock named for a gong by day and a drum by night, the 24-hour clock on paper, the king's list of 1900, the coconut water clock, Lanna's sixteen watches and noon by the sun. A live dial, sounds and a quiz, in English and Thai.
+
+English: https://nanobotco.github.io/thai-time/
+Thai: https://nanobotco.github.io/thai-time/th/
+
+## Two clocks at once
+
+Written down, Thai time runs on the 24-hour clock: 14.30 น., read sip-si nalika sam-sip nathi. Said out loud it mostly runs on an older count: บ่ายสองโมงครึ่ง, bai song mong khrueng, “afternoon, two gongs, half”.
+The spoken count cuts the day into four blocks of six hours and starts again at one in each block. Each block has its own word, and the words are sounds. โมง mong is the boom of a gong, struck through the day. ทุ่ม thum is the thud of a drum, struck through the evening. ตี ti, “strike”, takes the small hours.
+So 2 a.m. is ตีสอง, 8 a.m. is แปดโมง, 2 p.m. is บ่ายสองโมง and 8 p.m. is สองทุ่ม. Pick the wrong block and you turn up six hours early, or twelve hours late.
+
+## Every hour (clock · said · reading · word by word · also heard · 1900 list)
+
+- 01:00 · ตีหนึ่ง · ti nueng · strike 1 · — · เจ็ดทุ่ม
+- 02:00 · ตีสอง · ti song · strike 2 · — · แปดทุ่ม
+- 03:00 · ตีสาม · ti sam · strike 3 · — · สามยาม
+- 04:00 · ตีสี่ · ti si · strike 4 · — · สิบทุ่ม
+- 05:00 · ตีห้า · ti ha · strike 5 · — · สิบเอ็ดทุ่ม · ตีสิบเอ็ด
+- 06:00 · หกโมงเช้า · hok mong chao · 6 gongs, morning · ย่ำรุ่ง · ย่ำรุ่ง
+- 07:00 · เจ็ดโมงเช้า · chet mong chao · 7 gongs, morning · โมงเช้า · โมงเช้า · เช้าโมงหนึ่ง
+- 08:00 · แปดโมงเช้า · paet mong chao · 8 gongs, morning · สองโมงเช้า · สองโมงเช้า
+- 09:00 · เก้าโมงเช้า · kao mong chao · 9 gongs, morning · สามโมงเช้า · สามโมงเช้า
+- 10:00 · สิบโมงเช้า · sip mong chao · 10 gongs, morning · สี่โมงเช้า · สี่โมงเช้า
+- 11:00 · สิบเอ็ดโมง · sip-et mong · 11 gongs · ห้าโมงเช้า · ห้าโมงเช้า
+- 12:00 · เที่ยง · thiang · noon · เที่ยงวัน · เที่ยง · ย่ำเที่ยง
+- 13:00 · บ่ายโมง · bai mong · afternoon, 1 gong · — · บ่ายโมง · บ่ายโมงหนึ่ง
+- 14:00 · บ่ายสองโมง · bai song mong · afternoon, 2 gongs · — · บ่ายสองโมง
+- 15:00 · บ่ายสามโมง · bai sam mong · afternoon, 3 gongs · — · บ่ายสามโมง
+- 16:00 · สี่โมงเย็น · si mong yen · 4 gongs, evening · บ่ายสี่โมง · บ่ายสี่โมง
+- 17:00 · ห้าโมงเย็น · ha mong yen · 5 gongs, evening · บ่ายห้าโมง · บ่ายห้าโมง
+- 18:00 · หกโมงเย็น · hok mong yen · 6 gongs, evening · ย่ำค่ำ · ย่ำค่ำ
+- 19:00 · หนึ่งทุ่ม · nueng thum · 1 drum · ทุ่มหนึ่ง · ทุ่มหนึ่ง
+- 20:00 · สองทุ่ม · song thum · 2 drums · — · สองทุ่ม
+- 21:00 · สามทุ่ม · sam thum · 3 drums · — · ยามหนึ่ง
+- 22:00 · สี่ทุ่ม · si thum · 4 drums · — · สี่ทุ่ม
+- 23:00 · ห้าทุ่ม · ha thum · 5 drums · — · ห้าทุ่ม
+- 00:00 · เที่ยงคืน · thiang khuen · noon of the night · หกทุ่ม · สองยาม · สองยาม
+
+Half past: ครึ่ง khrueng. Minutes: number + นาที nathi. Written: 14.30 น. Read on radio: สิบสี่นาฬิกาสามสิบนาที.
+
+## Gong by day, drum by night
+
+Before clocks, the hours came from a tower. Keepers struck a gong (ฆ้อง khong) through the day and beat a drum (กลอง klong) through the night, once for each hour into the block. People named the hour by what they heard: โมง for the gong, ทุ่ม for the drum.
+At 6 a.m., noon and 6 p.m. the keepers beat a long run of strokes, ย่ำ yam: dawn was ย่ำรุ่ง, noon ย่ำเที่ยง, dusk ย่ำค่ำ. In Ayutthaya the big drum at the foot of the drum tower was beaten at sunset to close the city gates.
+Your browser makes these sounds from a few sine waves and a burst of noise. They are drawn sounds, not recordings.
+
+## The coconut that sinks
+
+นาฬิกา nalika, now the word for a clock, first meant a coconut. Siam kept time with a กะลาลอย kala loi: half a coconut shell with a small hole in the bottom, floated in a basin. Water seeps in, the shell rides lower, and when it is full it sinks. One sinking, one hour.
+Keepers scored the shell with nine lines into ten parts, each a บาท bat of six minutes. In the palace clock house, each time the shell sank a keeper struck the gong once and pushed a tally stick onto a rail. Twelve sticks made a day or a night; the rail was cleared at dawn and at dusk.
+This shell is a half sphere, and it floats, so it rides lower as it fills. Water pushes in through the hole faster the higher the level outside stands above the level inside (Torricelli's law: the speed grows with the square root of that drop). The gap narrows as the bowl widens, so the shell fills more slowly toward the end; the nine lines here sit at equal times under that rule. The shell sinks when its rim reaches the water, before it is full.
+
+## The king's list, 1900
+
+On 23 July 1900 King Chulalongkorn (Rama V) had the hour names printed in the Royal Gazette. People had drifted, it said, and were saying 6 โมงเช้า, 6 โมงเย็น, 3 ทุ่ม, 6 ทุ่ม and 9 ทุ่ม. The list set them right.
+In the king's list the drum count runs all night, up to eleven: 1 a.m. is เจ็ดทุ่ม, seven drums. Three points of the night get their own names: ยามหนึ่ง at 9 p.m., สองยาม at midnight, สามยาม at 3 a.m. A ยาม yam is a watch of three hours.
+Today people say all five of the forms the list struck out, and ตี has taken the small hours from the drum.
+Royal Gazette volume 17, page 206, dated 29 July, Rattanakosin year 119: 1900. English Wikipedia gives 1901.
+
+## Lanna time: watches, not hours
+
+The old Lanna count has no 60-minute hour. Inscriptions cut the day into sixteen watches, ยาม yam, of an hour and a half: eight by day and eight by night, from 6 a.m. A watch takes its name from the instrument that signalled it, then the part of the day. ตูด tut is a buffalo horn blown; กลอง klong the drum; แตร trae a horn or trumpet.
+ยามกลองงาย, the morning-meal drum, runs from 7.30 to 9 a.m. The four watches found most in Lanna inscriptions all fall between dawn and early afternoon: ยามตูดเช้า, ยามกลองงาย, ยามแตรใกล้เที่ยง and ยามตูดซ้าย. Kannika Wimonkasem, who listed them, reads that as the hours chosen for ceremonies.
+Names and hours from Kannika Wimonkasem, Damrong Journal, 2002. Inscriptions from Isan and Laos use some other names.
+
+## Noon by the sun
+
+Thai clocks run on the 105th meridian east, the line through Ubon Ratchathani. Until 1 April 1920 Siam kept Bangkok's own sun time, 6 hours 42 minutes 4 seconds ahead of Greenwich; that night the clocks jumped 17 minutes 56 seconds.
+Chiang Mai sits six degrees west of the line, so its sun peaks about 24 minutes after clock noon, more or less with the season. Pick a town.
+In the northern forests people read the hour off the sun by hand: arm out, fingers spread, count hand-spans (คืบ khuep) up from the horizon. One span, one โมง; six spans, noon.
+Sun from the NOAA solar equations; sunrise and sunset for the sun's top edge, allowing for air bending the light.
+
+Struck out in 1900: 6 โมงเช้า, 6 โมงเย็น, 3 ทุ่ม, 6 ทุ่ม, 9 ทุ่ม
+
+### Lanna watches (from 06:00, 90 minutes each)
+
+- 06:00–07:30 ยามตูดเช้า (yam tut chao)
+- 07:30–09:00 ยามกลองงาย (yam klong ngai)
+- 09:00–10:30 ยามแตรใกล้เที่ยง (yam trae klai thiang)
+- 10:30–12:00 ยามเที่ยง (yam thiang)
+- 12:00–13:30 ยามตูดซ้าย (yam tut sai)
+- 13:30–15:00 ยามกลองค่ำ (yam klong kham)
+- 15:00–16:30 ยามแตรใกล้ค่ำ (yam trae klai kham)
+- 16:30–18:00 ยามค่ำ · พาดลั่น (yam kham · phat lan)
+- 18:00–19:30 ยามตูดดึก (yam tut duek)
+- 19:30–21:00 ยามกลองดึก (yam klong duek)
+- 21:00–22:30 ยามแตรดึก (yam trae duek)
+- 22:30–00:00 ยามดึก (yam duek)
+- 00:00–01:30 ยามตูดรุ่ง (yam tut rung)
+- 01:30–03:00 ยามกลองรุ่ง (yam klong rung)
+- 03:00–04:30 ยามแตรใกล้รุ่ง (yam trae klai rung)
+- 04:30–06:00 ยามรุ่ง (yam rung)
+### Still in the calendar
+
+Lanna calendars still time the big moments by watch. The 2022 Lanna calendar compiled by Saknarin Chaongio at Rajamangala University of Technology Lanna puts Songkran in ยามแตรสู่เที่ยง, the horn watch toward noon, at 9.52.12 a.m. on 14 April, and the turn of the era year in ยามกลองแลง, the late-day drum, at 1.49.48 p.m. on 16 April. Both clock times fall inside the watches in the table above. แลง laeng is the northern word for late afternoon.
+Five hundred years earlier, in 1502, an inscription at Wat Doi Kham in Lamphun dates its horoscope ยามแตรจักใกล้เที่ยง, “the horn watch, near noon”.
+
+### Sixty named days
+
+Lanna also names each day from a cycle of sixty, the วันไท wan thai, “Tai day”. Ten first names and twelve last names turn together, one step a day, like two gears: กาบยี, ดับเหม้า, รวายสี, เมืองใส้ … The gears line up again after 60 days.
+Both gears step at once, and 10 and 12 are both even, so a first name only ever meets every other last name: 60 of the 120 possible pairs occur. The years turn on the same two gears; the era year 1388, which began in April 2026, is ปีรวายสะง้า, a horse year.
+
+### Months two ahead
+
+Lanna numbers its lunar months two ahead of central Thailand. Yi Peng, ยี่เป็ง, is the full moon of the second month in the north and of the twelfth in Bangkok. Tai Lue and Tai Khuen towns, Mae Sai, Chiang Khong, Chiang Kham and northern Nan among them, count เดือนโหรา duean hora, one month ahead of Bangkok and one behind the rest of Lanna.
+
+วันไท first names: กาบ ดับ รวาย เมือง เปิก กัด กด ร้วง เต่า ก่า
+วันไท last names: ใจ้ เป้า ยี เหม้า สี ใส้ สะง้า เม็ด สัน เร้า เส็ด ใค้
+Counted from the 2022 Lanna calendar, where 1 January 2022 is กาบยี and 14, 15 and 16 April are เมืองเร้า, เปิกเส็ด and กัดใค้. The page counts by the civil date; the era year turns in mid-April.
+
+## A day by the clock
+
+- 04:00 ตีสี่: Many temples wake; monks chant the morning service.
+- 06:00 หกโมงเช้า: Monks walk the alms round, บิณฑบาต binthabat, in the first light.
+- 08:00 แปดโมงเช้า: The national anthem plays on radio, TV and loudspeakers; the flag goes up and people stand still where they are.
+- 11:00 สิบเอ็ดโมง: เพล phen: the monks' last meal of the day, finished before noon.
+- 12:00 เที่ยง: Lunch for everyone else: ข้าวเที่ยง khao thiang.
+- — บ่ายควาย: Old sun-time phrases: บ่ายควาย, “buffalo afternoon”, and ควายเข้าคอก, “buffalo into the pen”, for late in the day.
+- 18:00 หกโมงเย็น: The anthem again; the flag comes down.
+- 00:00 เที่ยงคืน: The noon of the night. In the 1900 list, สองยาม, the end of the second watch.
+
+## From drum tower to radio
+
+- Ayutthaya: A drum tower ten wa high, four storeys, held three drums: ย่ำพระสุรศรี at the foot, beaten at sunset to close the gates; อัคคีพินาศ in the middle for fire; พิฆาตไพรินทร์ at the top for an enemy at the walls.
+- Rama I: Trials by diving were timed with a sinking coconut. The king worried over a shell that sank before either diver came up, and had a gong signal used instead.
+- Rama II: Small watches arrived as Portuguese gifts. With no shirt pockets, people tucked them into the fold of the waist-cloth, the พก phok: so a pocket watch is นาฬิกาพก.
+- Rama IV: King Mongkut set up a clock office in the palace, compared its pendulum clocks against the sundial at noon, and had the hour names announced in the Royal Gazette.
+- 1889: The solar calendar becomes the government calendar, the year starting on 1 April.
+- 1900: Rama V's announcement ประกาศใช้ทุ่มโมงยาม lists the hour names and strikes out five common mistakes.
+- Noon gun: The navy fired a gun at noon so the city could set its clocks; later the power station blinked the lights at สองทุ่ม instead.
+- 1920: On 1 April Siam moves from Bangkok's sun time to the 105th meridian, UTC+7.
+- Today: The Royal Thai Navy's Hydrographic Department keeps Thailand's standard time; radio and TV read it at 08:00 and 18:00 with the anthem.
+
+## Words
+
+- ตี ti: To strike. The hours from 1 to 5 a.m.: ตีหนึ่ง … ตีห้า.
+- โมง mong: The boom of a gong. The daytime hours.
+- ทุ่ม thum: The thud of a drum. The hours from 7 to 11 p.m.
+- ย่ำ yam: A long run of strokes, at 6 a.m., noon and 6 p.m. in the old names. Said with a falling tone; another word from ยาม.
+- ยาม yam: A watch: three hours of the night in central Thai, an hour and a half in Lanna.
+- เที่ยง thiang: Noon. เที่ยงคืน, thiang khuen, is midnight.
+- เช้า · บ่าย · เย็น chao · bai · yen: Morning, afternoon, evening.
+- ค่ำ · ดึก · รุ่ง kham · duek · rung: Dusk, late night, dawn.
+- ครึ่ง khrueng: Half. บ่ายสองโมงครึ่ง is 14:30.
+- นาฬิกา nalika: A clock, and “o'clock” on the 24-hour clock. Once a coconut-shell water clock.
+- น. : Written short for นาฬิกา: 14.30 น.
+- ชั่วโมง · นาที chuamong · nathi: Hour (as a length of time), minute.
+- บาท bat: Six minutes: a tenth of an hour on the coconut clock.
+- คืบ khuep: A hand-span, thumb to little finger.
+- เพล phen: The monks' late-morning meal, eaten before noon.
+
+## Sources
+
+- Royal Gazette vol. 17, p. 206, 29 July R.S. 119 (1900): ประกาศใช้ทุ่มโมงยาม: https://web.archive.org/web/20120609235147/http://www.ratchakitcha.soc.go.th/DATA/PDF/2443/018/206.PDF
+- Kannika Wimonkasem, ศักราช ศก ปี วัน เดือน ฤกษ์ และยามในจารึกล้านนา, Damrong Journal 1(1), 2002: https://so01.tci-thaijo.org/index.php/damrong/article/view/21390
+- Phisansri Kratai-thong, หอสูงกับการบอกเวลา, Silpa Wattanatham, October 2015 (online excerpt): https://www.silpa-mag.com/history/article_7703
+- Silpa Wattanatham, คำเรียกเวลา โมง-ทุ่ม มาจากไหน ใครกำหนด?: https://www.silpa-mag.com/culture/article_122812
+- Saknarin Chaongio, ปฏิทินล้านนา 2565 (Lanna calendar 2022), Rajamangala University of Technology Lanna: https://sdgs.rmutl.ac.th/wp-content/uploads/2023/10/ปฏิทินล้านนา-2565.pdf
+- Wikipedia: Thai six-hour clock: https://en.wikipedia.org/wiki/Thai_six-hour_clock
+- วิกิพีเดีย: นาฬิกาหกชั่วโมง: https://th.wikipedia.org/wiki/นาฬิกาหกชั่วโมง
+- Wikipedia: Time in Thailand: https://en.wikipedia.org/wiki/Time_in_Thailand
+- Hydrographic Department, Royal Thai Navy (standard time): https://www.hydro.navy.mi.th/
+- NOAA solar calculation details: https://gml.noaa.gov/grad/solcalc/calcdetails.html
+
+## Licence
+
+Text CC BY 4.0, NaNoBotCo. Code MIT. Pictures public domain, credited on the page.
